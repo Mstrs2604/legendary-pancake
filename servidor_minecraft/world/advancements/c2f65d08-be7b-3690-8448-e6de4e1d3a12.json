@@ -6658,5 +6658,17 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-01-26 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-01-26 22:08:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
