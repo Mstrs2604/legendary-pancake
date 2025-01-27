@@ -1440,3 +1440,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Jan2025 15:29:38.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HyperFocus has made the advancement [Dark Forging]
 [27Jan2025 15:29:57.534] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager NerdVillagerEntity['Nerd Villager'/1645, l='ServerLevel[world]', x=-664.42, y=63.77, z=2217.53] died, message: 'Nerd Villager was slain by Zombie Clown'
 [27Jan2025 15:30:02.503] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.322689056396484) to MEDIUM (avg. 48.44264221191406)
+[27Jan2025 15:30:10.000] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.44264221191406) to NORMAL (avg. 40.65193176269531)
+[27Jan2025 15:30:16.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> gtfdaaq<as
+[27Jan2025 15:30:25.000] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.65193176269531) to LOW (avg. 34.43886184692383)
+[27Jan2025 15:31:12.770] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1640, l='ServerLevel[world]', x=-656.70, y=65.00, z=2274.38] died, message: 'Unemployed hit the ground too hard'
+[27Jan2025 15:31:25.004] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.796348571777344) to NORMAL (avg. 40.88621520996094)
+[27Jan2025 15:31:36.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melonotjuanjo> el owner no chambea
+[27Jan2025 15:31:40.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.88621520996094) to LOW (avg. 35.0763053894043)
+[27Jan2025 15:31:44.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HyperFocus has reached the goal [Dark Blacksmith]
+[27Jan2025 15:32:18.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager NerdVillagerEntity['Nerd Villager'/1421, l='ServerLevel[world]', x=-671.50, y=63.00, z=2188.93] died, message: 'Nerd Villager was slain by Zombie'
+[27Jan2025 15:33:47.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.284820556640625) to NORMAL (avg. 40.68288040161133)
+[27Jan2025 15:34:02.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.68288040161133) to LOW (avg. 36.29033660888672)
+[27Jan2025 15:35:02.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.250633239746094) to NORMAL (avg. 42.23750305175781)
+[27Jan2025 15:35:10.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.23750305175781) to LOW (avg. 35.583927154541016)
+[27Jan2025 15:35:37.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melonotjuanjo> que haces hyper
+[27Jan2025 15:36:22.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HyperFocus> farmeando hierro
+[27Jan2025 15:37:18.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melonotjuanjo> y con q
+[27Jan2025 15:37:29.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HyperFocus> con picos de hierro
+[27Jan2025 15:37:31.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HyperFocus> y esmeralda
+[27Jan2025 15:37:42.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melonotjuanjo> god
+[27Jan2025 15:39:10.000] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.31280517578125) to NORMAL (avg. 40.025455474853516)
+[27Jan2025 15:39:32.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.37493133544922) to LOW (avg. 37.26177215576172)
+[27Jan2025 15:39:47.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.26177215576172) to NORMAL (avg. 41.04989242553711)
+[27Jan2025 15:39:55.002] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.04989242553711) to LOW (avg. 38.314517974853516)
+[27Jan2025 15:40:10.000] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.314517974853516) to NORMAL (avg. 42.312950134277344)
