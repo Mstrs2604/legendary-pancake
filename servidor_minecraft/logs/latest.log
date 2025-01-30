@@ -2744,3 +2744,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30Jan2025 16:04:32.919] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [30Jan2025 16:04:32.935] [Server thread/WARN] [ModernFix/]: Dedicated server took 138.967 seconds to load
 [30Jan2025 16:04:34.997] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at -81 ~ 1264 after 87 tries
+[30Jan2025 16:19:41.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xd
+[30Jan2025 16:20:26.644] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23dda81a[id=<null>,name=losmomlocos,properties={},legacy=false] (/172.30.105.67:50459) lost connection: Disconnected
