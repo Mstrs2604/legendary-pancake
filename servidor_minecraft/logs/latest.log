@@ -3238,3 +3238,141 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30Jan2025 16:52:39.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=79, z=4}
 [30Jan2025 16:52:39.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=79, z=4}
 [30Jan2025 16:52:47.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=81, z=4}
+[30Jan2025 16:53:15.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement ['X' Marks the Spot]
+[30Jan2025 16:53:17.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has reached the goal [Worthy Equipment]
+[30Jan2025 16:53:17.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [Crops of the Wild]
+[30Jan2025 16:53:24.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [Apothic Affixes]
+[30Jan2025 16:53:24.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [I Found It Underground]
+[30Jan2025 16:53:25.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [Not a Diamond]
+[30Jan2025 16:53:28.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Far From Perfect]
+[30Jan2025 16:53:39.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ey por cierto
+[30Jan2025 16:53:39.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> les aviso
+[30Jan2025 16:53:45.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> hay armaduras que tienen unas estadisticas especiales
+[30Jan2025 16:53:48.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> como velocidad
+[30Jan2025 16:53:51.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> o unas q dan mas vida
+[30Jan2025 16:54:08.220] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:08.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:08.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:08.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:08.608] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:08.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:09.211] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:09.308] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:09.409] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:09.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:09.608] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:09.709] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:10.308] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:10.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:10.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:10.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:10.707] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:10.806] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:11.308] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:11.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:11.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:11.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:11.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:11.808] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:12.423] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:12.509] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:12.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:12.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:12.808] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:12.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:13.412] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:13.507] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:13.609] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:13.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:13.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:13.908] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:14.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:14.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:14.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:14.807] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:14.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:15.010] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:15.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:15.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:15.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:15.811] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:15.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:16.007] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:16.611] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:16.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:16.808] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:16.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:17.007] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:17.109] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:17.606] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:17.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:17.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:17.908] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:18.010] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:18.108] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:18.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:18.808] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:18.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:19.040] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:19.136] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 16:54:50.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> no toy en llamada
+[30Jan2025 16:54:51.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> xD
+[30Jan2025 16:54:57.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ya me uno
+[30Jan2025 16:55:01.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Disme A Dozen]
+[30Jan2025 16:55:25.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
+[30Jan2025 16:55:39.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Acquire Hardware]
+[30Jan2025 16:55:43.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [Acquire Hardware]
+[30Jan2025 16:56:15.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Suit Up]
+[30Jan2025 16:56:24.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [Suit Up]
+[30Jan2025 16:57:08.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has reached the goal [Flawless Crystals]
+[30Jan2025 16:57:38.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [Disme A Dozen]
+[30Jan2025 16:58:07.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [Mine? Mine? Mine?]
+[30Jan2025 16:58:27.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has completed the challenge [Centennial]
+[30Jan2025 16:59:34.919] [Worker-Main-30/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[30Jan2025 16:59:35.637] [Worker-Main-30/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[30Jan2025 16:59:38.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[30Jan2025 17:00:19.450] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:19.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:19.652] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:19.751] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:19.851] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:19.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:20.056] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:20.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:20.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:20.353] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:20.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:20.551] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:20.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:20.755] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:20.849] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:20.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:21.050] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:21.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:21.251] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:21.349] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:21.452] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:21.550] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:21.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:21.750] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:21.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:21.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:22.051] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:22.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:22.254] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:22.353] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:22.449] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:22.550] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:22.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jan2025 17:00:23.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has completed the challenge [Free Willy]
+[30Jan2025 17:01:16.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[30Jan2025 17:01:19.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[30Jan2025 17:01:20.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [Barrel Booty]
+[30Jan2025 17:01:34.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [Far From Perfect]
+[30Jan2025 17:02:31.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Barrel Booty]
+[30Jan2025 17:02:31.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Close Quarters]
+[30Jan2025 17:03:01.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 fell from a high place
+[30Jan2025 17:03:01.532] [Server thread/WARN] [tombstone/]: The drop event of the player macresto23 was canceled by another mod
+[30Jan2025 17:03:01.538] [Server thread/INFO] [tombstone/]: The player macresto23 has successfully been saved
+[30Jan2025 17:03:03.168] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Jan2025 17:03:03.455] [Server thread/INFO] [do_a_barrel_roll/]: Client of macresto23 accepted server config.
