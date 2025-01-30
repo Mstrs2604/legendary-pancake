@@ -2746,3 +2746,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30Jan2025 16:04:34.997] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at -81 ~ 1264 after 87 tries
 [30Jan2025 16:19:41.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xd
 [30Jan2025 16:20:26.644] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23dda81a[id=<null>,name=losmomlocos,properties={},legacy=false] (/172.30.105.67:50459) lost connection: Disconnected
+[30Jan2025 16:27:05.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 0
+[30Jan2025 16:30:12.740] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[30Jan2025 16:30:12.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:59908] logged in with entity id 878 at (5.5, 78.0, -3.5)
+[30Jan2025 16:30:13.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[30Jan2025 16:30:13.072] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: awaconqueso132
+[30Jan2025 16:30:13.156] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[30Jan2025 16:31:10.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[30Jan2025 16:31:10.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[30Jan2025 16:31:11.019] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
