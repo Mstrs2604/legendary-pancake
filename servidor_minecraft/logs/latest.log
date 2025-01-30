@@ -3479,3 +3479,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30Jan2025 17:28:24.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos left the game
 [30Jan2025 17:28:33.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: macresto23 lost connection: Disconnected
 [30Jan2025 17:28:33.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 left the game
+[30Jan2025 17:40:56.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:42206] logged in with entity id 18717 at (114.92270868132421, 81.0, -0.4335781721198163)
+[30Jan2025 17:40:56.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[30Jan2025 17:40:56.857] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: awaconqueso132
+[30Jan2025 17:40:56.866] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[30Jan2025 17:41:44.654] [Server thread/INFO] [do_a_barrel_roll/]: Client of awaconqueso132 accepted server config.
