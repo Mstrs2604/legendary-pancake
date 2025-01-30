@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "awaconqueso132",
+      "uniqueId": "c2f65d08-be7b-3690-8448-e6de4e1d3a12"
+    },
+    "time": 1738099814833,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "/workspaces/legendary-pancake/servidor_minecraft/config/spark/heap-2025-01-28_21.29.21.hprof"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "awaconqueso132",
+      "uniqueId": "c2f65d08-be7b-3690-8448-e6de4e1d3a12"
+    },
+    "time": 1738099761538,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "/workspaces/legendary-pancake/servidor_minecraft/config/spark/heap-2025-01-28_21.28.51.hprof"
+    }
+  }
+]

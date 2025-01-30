@@ -1,10 +1,13 @@
 {
+  "apotheosis:adventure": null,
+  "apotheosis:ench": null,
+  "apotheosis:spawner": null,
   "create:backtank_capacity": null,
   "create:blaze_burner": null,
   "create:contraption_inv": null,
   "create:hide_boiler_tanks": null,
-  "gravestone:grave": null,
   "jade:object_name": null,
+  "lootr:info": null,
   "lootr:inventory": null,
   "minecraft:animal_owner": null,
   "minecraft:beehive": null,
@@ -24,5 +27,6 @@
   "minecraft:potion_effects": null,
   "minecraft:progress": null,
   "minecraft:redstone": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "pipez:pipe": null
 }

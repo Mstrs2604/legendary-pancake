@@ -130,7 +130,7 @@
 		#.
 		#Game ticks required for a Fan-based processing recipe to take effect.
 		#Range: > 0
-		fanProcessingTime = 10
+		fanProcessingTime = 150
 
 	#.
 	#Moving Contraptions
@@ -300,11 +300,11 @@
 			[kinetics.stressValues.v2.capacity]
 				copper_valve_handle = 8.0
 				hand_crank = 8.0
-				steam_engine = 3024.0
-				creative_motor = 16384.0
-				large_water_wheel = 256.0
-				water_wheel = 64.0
 				windmill_bearing = 512.0
+				steam_engine = 1024.0
+				creative_motor = 16384.0
+				large_water_wheel = 128.0
+				water_wheel = 32.0
 
 #.
 #Create's liquid manipulation tools
@@ -314,7 +314,7 @@
 	#[in Buckets]
 	#The amount of liquid a tank can hold per block.
 	#Range: > 1
-	fluidTankCapacity = 32
+	fluidTankCapacity = 8
 	#.
 	#[in Blocks]
 	#The maximum height a fluid tank can reach.
@@ -324,7 +324,7 @@
 	#[in Blocks]
 	#The maximum distance a mechanical pump can push or pull liquids on either side.
 	#Range: > 1
-	mechanicalPumpRange = 999999999
+	mechanicalPumpRange = 16
 	#.
 	#[in Blocks]
 	#The maximum distance a hose pulley can draw fluid blocks from.
@@ -365,7 +365,7 @@
 	#.
 	#Maximum distance in blocks a Mechanical Arm can reach across.
 	#Range: > 1
-	mechanicalArmRange = 100
+	mechanicalArmRange = 5
 	#.
 	#Maximum possible range in blocks of redstone link connections.
 	#Range: > 1
