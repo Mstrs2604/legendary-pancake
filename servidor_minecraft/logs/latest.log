@@ -3461,3 +3461,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30Jan2025 17:21:53.774] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: macresto23
 [30Jan2025 17:21:53.785] [Server thread/INFO] [Jade/]: Syncing config to macresto23 (aaceccb3-387a-3ff8-a856-55779a1dd745)
 [30Jan2025 17:21:56.316] [Server thread/INFO] [do_a_barrel_roll/]: Client of macresto23 accepted server config.
+[30Jan2025 17:23:22.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 was slain by Moose
+[30Jan2025 17:23:22.053] [Server thread/WARN] [tombstone/]: The drop event of the player macresto23 was canceled by another mod
+[30Jan2025 17:23:22.076] [Server thread/INFO] [tombstone/]: The player macresto23 has successfully been saved
+[30Jan2025 17:23:23.675] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Jan2025 17:23:23.837] [Server thread/INFO] [do_a_barrel_roll/]: Client of macresto23 accepted server config.
+[30Jan2025 17:23:30.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=88, z=1}
+[30Jan2025 17:23:57.918] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ed247ed[id=<null>,name=awaconqueso132,properties={},legacy=false] (/172.30.145.167:48386) lost connection: Disconnected
+[30Jan2025 17:25:27.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 was slain by losmomlocos
+[30Jan2025 17:25:27.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [Your First Grave]
+[30Jan2025 17:25:27.124] [Server thread/INFO] [tombstone/]: The player macresto23 has successfully been saved
+[30Jan2025 17:25:31.008] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Jan2025 17:25:31.122] [Server thread/INFO] [do_a_barrel_roll/]: Client of macresto23 accepted server config.
+[30Jan2025 17:26:15.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Isn't It Iron Pick]
+[30Jan2025 17:26:15.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Funeral Theft]
+[30Jan2025 17:28:24.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: losmomlocos lost connection: Disconnected
+[30Jan2025 17:28:24.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos left the game
+[30Jan2025 17:28:33.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: macresto23 lost connection: Disconnected
+[30Jan2025 17:28:33.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 left the game
