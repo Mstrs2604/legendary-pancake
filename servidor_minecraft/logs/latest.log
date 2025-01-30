@@ -3376,3 +3376,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30Jan2025 17:03:01.538] [Server thread/INFO] [tombstone/]: The player macresto23 has successfully been saved
 [30Jan2025 17:03:03.168] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [30Jan2025 17:03:03.455] [Server thread/INFO] [do_a_barrel_roll/]: Client of macresto23 accepted server config.
+[30Jan2025 17:03:46.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has reached the goal [Here They Come]
+[30Jan2025 17:04:53.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Stone Age]
+[30Jan2025 17:04:54.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [Stone Age]
+[30Jan2025 17:05:29.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [Isn't It Iron Pick]
+[30Jan2025 17:05:49.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the weather to clear]
+[30Jan2025 17:06:13.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Not a Diamond]
+[30Jan2025 17:06:29.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
+[30Jan2025 17:07:15.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[30Jan2025 17:07:15.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[30Jan2025 17:07:35.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:39926] logged in with entity id 11916 at (70.44264158755188, 73.0, 161.55733350173747)
+[30Jan2025 17:07:35.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[30Jan2025 17:07:35.503] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: awaconqueso132
+[30Jan2025 17:07:35.517] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[30Jan2025 17:07:41.709] [Server thread/INFO] [do_a_barrel_roll/]: Client of awaconqueso132 accepted server config.
+[30Jan2025 17:08:12.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [Amateur Archaeologist]
+[30Jan2025 17:09:32.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Monster Hunter]
+[30Jan2025 17:09:42.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [A Throwaway Joke]
+[30Jan2025 17:10:07.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 was kicked for floating too long!
+[30Jan2025 17:10:07.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Flying is not enabled on this server
+[30Jan2025 17:10:07.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[30Jan2025 17:10:32.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 has made the advancement [Monster Hunter]
+[30Jan2025 17:12:21.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:39394] logged in with entity id 13271 at (134.25550922673546, 80.7531999771677, 88.72110620198762)
+[30Jan2025 17:12:21.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[30Jan2025 17:12:21.346] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: awaconqueso132
+[30Jan2025 17:12:21.358] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[30Jan2025 17:12:23.311] [Server thread/INFO] [do_a_barrel_roll/]: Client of awaconqueso132 accepted server config.
+[30Jan2025 17:12:27.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Knowledge of Death]
+[30Jan2025 17:12:27.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Ashes 'n Bones]
+[30Jan2025 17:12:29.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
+[30Jan2025 17:12:44.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Knowledge raises the soul]
+[30Jan2025 17:12:53.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [How'd You Get This?]

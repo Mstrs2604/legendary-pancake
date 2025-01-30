@@ -1731,6 +1731,30 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-30 16:52:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-30 16:52:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-01-30 16:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-30 16:52:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-01-30 16:53:10 +0000"
@@ -1743,29 +1767,95 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
-      "has_backpack": "2025-01-30 16:52:39 +0000"
+      "all_effects": "2025-01-30 17:00:23 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+  "create_central_kitchen:recipes/crafting/tomato_sauce_bucket_from_bowls": {
     "criteria": {
-      "has_item": "2025-01-30 16:52:49 +0000"
+      "has_bucket": "2025-01-30 17:04:26 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+  "apotheosis:affix/gem": {
     "criteria": {
-      "has_backpack": "2025-01-30 16:52:39 +0000"
+      "gem": "2025-01-30 17:06:13 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "crafting_table": "2025-01-30 16:52:49 +0000"
+      "log_spam_fixer": "2025-01-30 17:09:33 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-30 17:09:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-30 17:09:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-30 17:09:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-30 17:09:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-30 17:09:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-30 17:09:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-30 17:09:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-30 17:09:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-30 17:09:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-30 17:09:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-30 17:09:33 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
