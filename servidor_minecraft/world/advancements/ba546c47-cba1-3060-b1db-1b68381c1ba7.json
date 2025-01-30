@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-01-30 17:09:44 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_cottage": {
     "criteria": {
       "has_logs": "2025-01-30 16:48:56 +0000"
@@ -161,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-30 17:09:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-01-30 16:55:39 +0000"
@@ -182,6 +194,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-01-30 17:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-30 17:09:44 +0000"
     },
     "done": true
   },
@@ -254,6 +272,12 @@
   "aether:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron": "2025-01-30 16:55:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-30 17:09:44 +0000"
     },
     "done": true
   },
@@ -356,6 +380,12 @@
   "storagedrawers:recipes/storagedrawers/cherry_trim": {
     "criteria": {
       "has_planks": "2025-01-30 16:47:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-01-30 17:12:12 +0000"
     },
     "done": true
   },
@@ -557,6 +587,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-30 17:09:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-01-30 17:18:41 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-01-30 16:47:47 +0000"
@@ -590,6 +632,12 @@
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2025-01-30 16:47:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-30 17:12:44 +0000"
     },
     "done": true
   },
@@ -680,6 +728,12 @@
   "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
     "criteria": {
       "has_template": "2025-01-30 16:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-30 17:11:19 +0000"
     },
     "done": true
   },
@@ -815,6 +869,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-30 17:10:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2025-01-30 16:55:39 +0000"
@@ -860,6 +920,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-01-30 16:48:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-30 17:11:19 +0000"
     },
     "done": true
   },
@@ -936,6 +1002,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-30 17:10:12 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
     "criteria": {
       "has_template": "2025-01-30 16:47:47 +0000"
@@ -987,6 +1059,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-30 16:48:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-30 17:12:27 +0000"
     },
     "done": true
   },
@@ -1077,6 +1155,12 @@
   "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-30 16:55:39 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2025-01-30 17:09:44 +0000"
     },
     "done": true
   },
@@ -1196,7 +1280,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-01-30 17:09:32 +0000"
+      "minecraft:skeleton": "2025-01-30 17:10:07 +0000",
+      "minecraft:spider": "2025-01-30 17:09:32 +0000",
+      "minecraft:creeper": "2025-01-30 17:10:22 +0000",
+      "minecraft:zombie": "2025-01-30 17:10:10 +0000"
     },
     "done": false
   },
@@ -1266,6 +1353,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-30 17:19:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-01-30 16:52:21 +0000"
@@ -1299,6 +1392,12 @@
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2025-01-30 16:52:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-30 17:12:27 +0000"
     },
     "done": true
   },
@@ -1591,6 +1690,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-01-30 17:12:12 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/keyring": {
     "criteria": {
       "has_template": "2025-01-30 16:47:47 +0000"
@@ -1795,6 +1900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-30 17:09:44 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2025-01-30 16:52:21 +0000"
@@ -1903,6 +2014,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-01-30 17:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-30 17:18:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-01-30 16:48:32 +0000"
@@ -1984,6 +2107,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-30 16:48:56 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-01-30 17:12:53 +0000"
     },
     "done": true
   },
@@ -2149,6 +2278,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-30 17:09:44 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-30 17:04:53 +0000"
@@ -2237,6 +2372,12 @@
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-01-30 16:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-30 17:09:44 +0000"
     },
     "done": true
   },

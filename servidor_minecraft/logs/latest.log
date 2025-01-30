@@ -3407,3 +3407,57 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30Jan2025 17:12:29.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
 [30Jan2025 17:12:44.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Knowledge raises the soul]
 [30Jan2025 17:12:53.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [How'd You Get This?]
+[30Jan2025 17:13:47.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Teleported awaconqueso132 to macresto23]
+[30Jan2025 17:14:22.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 was kicked for floating too long!
+[30Jan2025 17:14:22.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Flying is not enabled on this server
+[30Jan2025 17:14:22.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[30Jan2025 17:14:39.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:45242] logged in with entity id 14029 at (160.7110502515344, 81.2522032912725, 96.59504973787722)
+[30Jan2025 17:14:39.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[30Jan2025 17:14:39.816] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: awaconqueso132
+[30Jan2025 17:14:39.824] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[30Jan2025 17:14:42.874] [Server thread/INFO] [do_a_barrel_roll/]: Client of awaconqueso132 accepted server config.
+[30Jan2025 17:15:16.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[30Jan2025 17:15:16.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[30Jan2025 17:15:56.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 111001101 11111011 1000111 1101001
+[30Jan2025 17:16:30.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] [200~111001101 11111011 1000111 1101001[201~
+[30Jan2025 17:16:49.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 111001101 11111011 1000111 1101001
+[30Jan2025 17:17:15.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:41820] logged in with entity id 14539 at (160.7110502515344, 80.0, 96.59504973787722)
+[30Jan2025 17:17:15.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[30Jan2025 17:17:15.199] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: awaconqueso132
+[30Jan2025 17:17:15.212] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[30Jan2025 17:17:20.233] [Server thread/INFO] [do_a_barrel_roll/]: Client of awaconqueso132 accepted server config.
+[30Jan2025 17:17:22.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 was slain by Moose
+[30Jan2025 17:17:22.952] [Server thread/WARN] [tombstone/]: The drop event of the player macresto23 was canceled by another mod
+[30Jan2025 17:17:22.969] [Server thread/INFO] [tombstone/]: The player macresto23 has successfully been saved
+[30Jan2025 17:17:24.312] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Jan2025 17:17:24.529] [Server thread/INFO] [do_a_barrel_roll/]: Client of macresto23 accepted server config.
+[30Jan2025 17:17:32.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
+[30Jan2025 17:17:46.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> mejor me salgo de llamada ve XD
+[30Jan2025 17:17:57.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> mi internet anda bien mrda
+[30Jan2025 17:18:14.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos was slain by Moose
+[30Jan2025 17:18:14.704] [Server thread/WARN] [tombstone/]: The drop event of the player losmomlocos was canceled by another mod
+[30Jan2025 17:18:14.719] [Server thread/INFO] [tombstone/]: The player losmomlocos has successfully been saved
+[30Jan2025 17:18:15.963] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Jan2025 17:18:16.089] [Server thread/INFO] [do_a_barrel_roll/]: Client of losmomlocos accepted server config.
+[30Jan2025 17:18:24.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> qle pava
+[30Jan2025 17:18:31.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> te moriste por un fokin alce XDDD?
+[30Jan2025 17:18:41.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [Alex's Mobs]
+[30Jan2025 17:18:45.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Teleported awaconqueso132 to macresto23]
+[30Jan2025 17:18:56.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[30Jan2025 17:18:56.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[30Jan2025 17:19:11.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mejor reinicio el inter
+[30Jan2025 17:19:15.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has reached the goal [Here They Come]
+[30Jan2025 17:19:55.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: losmomlocos has made the advancement [A Throwaway Joke]
+[30Jan2025 17:19:57.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 was slain by Moose
+[30Jan2025 17:19:57.799] [Server thread/WARN] [tombstone/]: The drop event of the player macresto23 was canceled by another mod
+[30Jan2025 17:19:57.819] [Server thread/INFO] [tombstone/]: The player macresto23 has successfully been saved
+[30Jan2025 17:19:59.266] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Jan2025 17:19:59.471] [Server thread/INFO] [do_a_barrel_roll/]: Client of macresto23 accepted server config.
+[30Jan2025 17:20:06.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: macresto23 was kicked for floating too long!
+[30Jan2025 17:20:06.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: macresto23 lost connection: Flying is not enabled on this server
+[30Jan2025 17:20:06.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 left the game
+[30Jan2025 17:21:53.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: macresto23[/172.30.6.65:57809] logged in with entity id 15920 at (23.116484246256707, 81.28549173501169, -4.267422379394172)
+[30Jan2025 17:21:53.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: macresto23 joined the game
+[30Jan2025 17:21:53.774] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: macresto23
+[30Jan2025 17:21:53.785] [Server thread/INFO] [Jade/]: Syncing config to macresto23 (aaceccb3-387a-3ff8-a856-55779a1dd745)
+[30Jan2025 17:21:56.316] [Server thread/INFO] [do_a_barrel_roll/]: Client of macresto23 accepted server config.
