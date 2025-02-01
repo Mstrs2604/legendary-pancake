@@ -23676,3 +23676,71 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Feb2025 18:29:10.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
 [01Feb2025 18:29:24.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
 [01Feb2025 18:30:54.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[01Feb2025 18:31:20.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[01Feb2025 18:31:28.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[01Feb2025 18:32:09.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[01Feb2025 18:32:12.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 18:32:13.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 18:33:39.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[01Feb2025 18:34:05.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[01Feb2025 18:35:52.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[01Feb2025 18:36:00.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[01Feb2025 18:36:23.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[01Feb2025 18:36:28.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[01Feb2025 18:37:12.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 18:37:13.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 18:37:33.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
+[01Feb2025 18:37:57.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[01Feb2025 18:38:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[01Feb2025 18:38:46.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
+[01Feb2025 18:39:57.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[01Feb2025 18:40:06.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> eaa
+[01Feb2025 18:40:08.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ae
+[01Feb2025 18:40:14.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> uyuyu
+[01Feb2025 18:40:20.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[01Feb2025 18:40:34.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[01Feb2025 18:40:57.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[01Feb2025 18:41:15.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[01Feb2025 18:41:16.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[01Feb2025 18:41:44.574] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[01Feb2025 18:41:44.575] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[01Feb2025 18:41:44.575] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[01Feb2025 18:41:44.576] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[01Feb2025 18:41:44.576] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[01Feb2025 18:41:45.427] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[01Feb2025 18:41:45.441] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[01Feb2025 18:41:45.454] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[01Feb2025 18:41:45.455] [Worker-Main-4/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_pillager_0 is being run through DFU (hash 5b954e6c9a153dc96aee542ae8e2813d5466cd4bdc9d7627224d581e8e589b37), this will cause launch time delays
+[01Feb2025 18:41:45.795] [Worker-Main-4/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0 is being run through DFU (hash 1bdbb5904e08c005d77c14cf57dae04bc3b5c0b8f46bdaf5c0a9ae4bb5d4f0a6), this will cause launch time delays
+[01Feb2025 18:41:50.055] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[01Feb2025 18:41:50.055] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[01Feb2025 18:41:50.072] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[01Feb2025 18:41:50.072] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[01Feb2025 18:41:50.072] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[01Feb2025 18:41:50.073] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[01Feb2025 18:41:51.744] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-364 | 38 | -1964).
+[01Feb2025 18:41:51.744] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[01Feb2025 18:41:51.744] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[01Feb2025 18:41:51.744] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[01Feb2025 18:41:51.744] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 5(0) Rooms
+[01Feb2025 18:41:51.744] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[01Feb2025 18:41:51.745] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 4(7) Nodes and 6(0) Rooms
+[01Feb2025 18:41:51.745] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[01Feb2025 18:41:51.745] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(0) Nodes and 4(0) Rooms
+[01Feb2025 18:41:51.746] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[01Feb2025 18:41:51.746] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 4(0) Rooms
+[01Feb2025 18:42:12.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 18:42:13.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 18:42:47.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> waystones
+[01Feb2025 18:43:01.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[01Feb2025 18:43:14.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[01Feb2025 18:43:33.196] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/5956, l='ServerLevel[world]', x=-189.19, y=-5.65, z=-1582.61], dimensionLocationPath overworld
+[01Feb2025 18:43:33.344] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/5956, l='ServerLevel[world]', x=-188.96, y=-5.43, z=-1582.84, removed=DISCARDED]
+[01Feb2025 18:43:42.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[01Feb2025 18:45:53.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[01Feb2025 18:46:47.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[01Feb2025 18:46:50.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[01Feb2025 18:47:01.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[01Feb2025 18:47:01.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[01Feb2025 18:47:12.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 18:47:12.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
