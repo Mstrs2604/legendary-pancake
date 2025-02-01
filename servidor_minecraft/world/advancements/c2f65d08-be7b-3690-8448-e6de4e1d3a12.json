@@ -1993,6 +1993,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-02-01 18:27:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/mine": {
     "criteria": {
       "has_iron": "2025-02-01 18:04:11 +0000"
@@ -2080,6 +2086,12 @@
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-02-01 18:16:38 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-01 18:22:12 +0000"
     },
     "done": true
   },
@@ -2206,6 +2218,12 @@
   "createdeco:recipes/decorations/iron_bars_overlay_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-01 18:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-01 18:18:30 +0000"
     },
     "done": true
   },
@@ -3077,6 +3095,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-01 18:04:13 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-02-01 18:22:00 +0000"
     },
     "done": true
   },
